@@ -14,8 +14,9 @@ node bin/www
 
 This will get the backend running on port 3001, which will prevent conflicts with React's default port 3000.
 
-Run the following command to start the front end:
+Run the following commands to start the front end:
 ```
+npm install
 npm start
 ```
 Now you can see your app running at http://localhost:3000.
